@@ -1,0 +1,14 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://localhost:5173",
+      "localStorage": [
+        {
+          "name": "jobora_token",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiaXNfYWRtaW4iOnRydWUsInR2IjowLCJ0eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzgxMjUxNjQ5fQ.06cSEYd7x4pLcvO4VlrWEvxfSKsa3iqXFmmorKgBKe0"
+        }
+      ]
+    }
+  ]
+}
