@@ -1,3 +1,18 @@
+<!-- DHIVA-HEADER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=170&section=header&text=Jobo&fontSize=46&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=600&lines=Smart%20job-application%20automation;by%20Dhivakar%20A%20V%20%E2%9C%A8" alt="Jobo" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GitHub](https://img.shields.io/badge/by-dhivakarav-181717?style=flat-square&logo=github)
+
+</div>
+
+🤖 _Smart job-application automation_
+
+---
+
 # Jobora — Real Job Discovery & Application Platform
 
 Jobora aggregates **genuine, currently-open jobs** from official company sources,
